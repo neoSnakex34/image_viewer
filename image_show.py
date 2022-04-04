@@ -12,5 +12,5 @@ def show(path):
     resized_image.show()
 
 if __name__ == '__main__':
-    path = '/home/james/Immagini/rei.png'
+    path = 'path/to/your/image.png'
     show(path)
